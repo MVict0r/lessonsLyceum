@@ -65,3 +65,65 @@
 //
 // prigArgs(1, 2, 3, 14, 4535, 53, 2323, 324, 5353, 64, 5)
 
+//------------------------------------------------------------------------
+// 9. Асинхронность. Глобальные объекты. Node.js. Введение в TS
+
+// console.log(1)
+// console.log(2)
+// console.log(3)
+// console.log(4)
+//
+// setTimeout(() => {
+//     console.log(5)
+// }, 4000)
+
+import axios from "axios";
+// fetch('https://yandex.ru')
+// .then(response => {
+//     console.log(response)
+// })
+
+// const promise = new Promise((resolve) => {
+//     setTimeout(() => {
+//         resolve(500)
+//     }, 3000)
+// })
+//
+// promise.then(res => {
+//     console.log(res)
+// })
+
+// axios.get("https://yandex.ru").then(res => console.log(res))
+
+
+
+
+
+
+
+// const promise = new Promise((resolve) => {
+//     setTimeout(() => {
+//         resolve('Success')
+//     }, 2000);
+// })
+//
+// // promise.then(result => console.log(result))
+//
+// async function print(){
+//     const res = await promise
+//     console.log(res)
+// }
+//
+// print()
+
+
+const a = -1
+
+a > 0 ? console.log(a) : console.log('Error')
+
+
+
+
+
+
+

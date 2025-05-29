@@ -1,0 +1,23 @@
+{
+  "name": "lessonsandhomeworkjs",
+  "version": "1.0.0",
+  "main": "homeWorkOOP.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MVict0r/lessonsLyceum.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MVict0r/lessonsLyceum/issues"
+  },
+  "homepage": "https://github.com/MVict0r/lessonsLyceum#readme",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
+}
